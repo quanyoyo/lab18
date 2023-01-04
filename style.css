@@ -1,0 +1,13 @@
+.carousel-item img {
+  height: 100vh;
+  width: auto;
+  justify-content: space-between;
+}
+.list-content-footer > *:first-child {
+  list-style: none;
+}
+.list-content-footer {
+  list-style: inside;
+  display: flex;
+  gap: 15px;
+}
